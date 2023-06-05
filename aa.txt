@@ -1,0 +1,9 @@
+dnew 0 "28:0" rw
+tnew rdx
+fnew rdi
+fmap {any {0 0}} {any {0 0}}
+m on
+metrocf {non {0 0} 28 69} {non {0 0} 29 69}
+loop
+sel 8
+r
